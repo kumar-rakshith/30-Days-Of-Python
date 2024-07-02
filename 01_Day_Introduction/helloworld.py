@@ -1,6 +1,7 @@
 # Introduction
 # Day 1 - 30DaysOfPython Challenge
 
+# Arithmetic Operations
 print(2 + 3)   # addition(+)
 print(3 - 1)   # subtraction(-)
 print(2 * 3)   # multiplication(*)
@@ -10,7 +11,6 @@ print(3 % 2)   # modulus(%)
 print(3 // 2)  # Floor division operator(//)
 
 # Checking data types
-
 print(type(10))                  # Int
 print(type(3.14))                # Float
 print(type(1 + 3j))              # Complex
@@ -19,3 +19,12 @@ print(type([1, 2, 3]))           # List
 print(type({'name':'Asabeneh'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
+
+# Additional examples
+print(type(True))                # Boolean
+print(type(None))                # NoneType
+print(type(range(5)))            # Range
+print(type(b'Hello'))            # Bytes
+print(type(bytearray([1, 2, 3])))# Bytearray
+print(type(memoryview(b'Hello')))# Memoryview
+
