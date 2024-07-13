@@ -3,7 +3,8 @@ Here's a detailed explanation of sets with syntax examples covering creation, ac
 
 ### 1. Creating Sets
 
-Sets in Python are created using curly braces `{}` or by using the `set()` constructor. If you use `{}`, ensure you put at
+Sets in Python are created using curly braces `{}` or by using the `set()` constructor. 
+If you use `{}`, ensure you put at
 least one element inside to distinguish it from an empty dictionary.
 
 **Syntax:**
