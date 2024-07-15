@@ -1,4 +1,5 @@
-In Python, a directory (often referred to as a dictionary) is a powerful data structure that maps keys to values. It is mutable, meaning it can be changed after it is created. Here's a detailed explanation of dictionaries in Python:
+In Python, a directory (often referred to as a dictionary) is a powerful data structure that maps keys to values. 
+It is mutable, meaning it can be changed after it is created. Here's a detailed explanation of dictionaries in Python:
 
 ### Syntax:
 ```python
